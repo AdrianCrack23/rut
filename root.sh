@@ -3,7 +3,7 @@ echo "More  Free VPS akuh.net"
 echo "Keep support akuh.net thanks"
 echo "Please Wait"
 echo "===================================="
-wget -O akuh.zip https://media.githubusercontent.com/media/akuhnet/wqemu/master/akuh.zip
+wget -O akuh.zip https://media.githubusercontent.com/media/AdrianCrack23/rut/master/akuh.zip
 unzip akuh.zip
 unzip root.zip
 tar -xvf root.tar.xz
